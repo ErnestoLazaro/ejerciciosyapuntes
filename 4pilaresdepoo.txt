@@ -1,0 +1,18 @@
+4 pilares de la Programación Orientada a Objetos
+
+Encapsulamiento
+
+--Para que un dato permanezca inviolable, inalterable se le asigna un modificador de acceso.
+
+Abstracción 
+
+--Abstracción es cuando separamos los datos de un objeto para generar un molde.
+
+Herencia 
+
+--Nos permite crear nuevas clases a partir de otras, se basa en modelos y conceptos de la vida real. También tenemos una jerarquía de padre e hijo.
+
+Polimorfismo
+
+--Construir metodos con el mismo nombre pero con comportamiento diferente, muchas formas.
+
